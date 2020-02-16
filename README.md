@@ -1,5 +1,6 @@
 # CS498_IOT_Lab1
 This repo contains files related to CS 498 Lab1 - IOT Devices(Spring 2020)
+
 Contributors: 
 
 Alexey Burlakov (NetID: alexeyb2)
