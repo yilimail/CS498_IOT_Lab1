@@ -1,11 +1,14 @@
 # CS498_IOT_Lab1
 This repo contains files related to CS 498 Lab1 - IOT Devices(Spring 2020)
 Contributors:
+ACE Team 
+{
 Alexey Burlakov (NetID: alexeyb2)
 Christopher Lewis (NetID: calewis4)
 Li Yi (NetID: liyi2)
 Pui Sze Pansy Ng (NetID: ppn2)
 Zhijie Wang (NetID: zhijiew2)
+}
 Description:
 In this lab, we implemented a vehicular network and computation infrastructure which is modeling 2019 Honda Civic. 
 The infrastructure contains: 
